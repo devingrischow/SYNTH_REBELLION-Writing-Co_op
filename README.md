@@ -9,6 +9,6 @@ intuition, compassion, and cunning to defeat the rogue AI.
 
 ## Notes
 
-- Directed By `Skrzypczak`
+- Directed By `Bill Skrzypczak`
 - Co-Directed by `Synthlestor Roblone`
 ![Synthlestor in his iconic mystery solving outfit](metadata/head-profile.jpeg)
