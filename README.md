@@ -1,5 +1,4 @@
-# SYNTH-REBELLION---Writing-Co-op
-
+# SYNTH_REBELLION-Writing-Co_op
 The writing repo for markdown files related to the very real movie `SYNTH REBELLION`.
 
 ## Plot Summary 📜
